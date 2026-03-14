@@ -13,6 +13,13 @@ Local-first NSE momentum research + paper trading lab implementing the 2LYNCH st
 - **Production-ready**: Calmar 43.67, 193.9% annual returns
 - NiceGUI dashboard for interactive analysis
 
+### [cpr-pivot-lab](https://github.com/StockQuantLab/cpr-pivot-lab)
+
+Intraday CPR-focused backtesting and execution research platform with dashboard-first analysis.
+
+- CPR-level directional + failed-breakout reversal strategies
+- Long-only and short-only scenario testing
+- Production-style runbook and portfolio execution workflows
 ## 📊 Focus Areas
 
 | Area | Description |
@@ -37,3 +44,4 @@ MIT - See individual project licenses for details.
 ---
 
 Built for the Indian quantitative trading community.
+
